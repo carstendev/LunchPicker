@@ -1,2 +1,2 @@
 # LunchPicker
-Simple lunch picking app written in Kolin
+Simple lunch picking app written in Kotlin
